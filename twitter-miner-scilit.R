@@ -19,7 +19,7 @@ setup_twitter_oauth(consumer_key = "your.key.here",
 # pipeline ----------------------------------------------------------------
 
 # User input
-data_dir <- "twitter.handle.excel.sheet.here"
+data_dir <- "twitter.handle.csv.here"
 out_dir <- "output.file.directory.here"
 setwd(data_dir)
 

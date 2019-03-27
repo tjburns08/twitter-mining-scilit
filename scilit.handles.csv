@@ -1,0 +1,10 @@
+Source,Category,Handle,Notes
+BiorXiv,preprint,biorxivpreprint ,none
+BiorXiv bioinformatics,preprint,biorxiv_bioinfo,not clear on if these are a subset or just different
+Single cell papers,standard,scell_papers,none
+BiorXiv genomics,preprint,biorxiv_genomic,none
+BiorXiv immunology,preprint,biorxiv_immuno,none
+BiorXiv neuroscience,preprint,biorxiv_neursci,none
+BiorXiv cell biology,preprint,biorxiv_cellbio,none
+BiorXiv evolutionary biology,preprint,biorxiv_evobio,none
+BiorXiv microbiology,preprint,biorxiv_microbio,none
