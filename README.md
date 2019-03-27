@@ -9,6 +9,7 @@ There are three things you need to do before you can use this code:
 3) Set up the remaining user inputs in the script, particularly the data directory and the output direcotry (data_dir and out_dir). You also have the option to include only pre-prints or include all types of papers. 
 
 Notes on the scilit.handles.csv file: 
+
 Notice that it is organized into 4 columns. 
 source: The name of the twitter bot.
 category: whether or not it is a pre-print. Useful for downstream organization.
