@@ -9,7 +9,7 @@ library(tidyverse)
 # functions ---------------------------------------------------------------
 # Setting up the twitter 
 # To fill this in, go to section 3 of: 
-# http://geoffjentry.hexdump.org/twitteR.pdfß
+# http://geoffjentry.hexdump.org/twitteR.pdf
 setup_twitter_oauth(consumer_key = "your.key.here", 
                     consumer_secret = "your.secret.here",
                     access_token = "your.token.here",
@@ -19,7 +19,7 @@ setup_twitter_oauth(consumer_key = "your.key.here",
 # pipeline ----------------------------------------------------------------
 
 # User input
-data_dir <- "twitter.handle.csv.here"
+data_dir <- "scilit.handles.csv is located here"
 out_dir <- "output.file.directory.here"
 setwd(data_dir)
 
@@ -68,5 +68,5 @@ tw_final <- tw_final[order(tw_final$favoriteCount, decreasing = TRUE),]
 
 # Output
 setwd(out_dir)
-write_csv(tw_final, paste("preprint.papers", date_from, date_to, "csv", sep = "."))
+write_csv(tw_final, paste("papers", date_from, date_to, "csv", sep = "."))
 
