@@ -1,7 +1,7 @@
 # twitter-mining-scilit
 Mining automated paper-posting bots from twitter.
 
-This is the necessary code and files needed to mine twitter scientific literature posting bots and organize by likes and re-tweets, as I did in this article (https://medium.com/@tjburns_72591/using-and-mining-pre-prints-to-stay-ahead-of-your-field-with-the-help-of-twitter-50d5bdc528de "here)
+This is the necessary code and files needed to mine twitter scientific literature posting bots and organize by likes and re-tweets, as I did in this article (https://medium.com/@tjburns_72591/using-and-mining-pre-prints-to-stay-ahead-of-your-field-with-the-help-of-twitter-50d5bdc528de "here")
 
 ## There are three things you need to do before you can use this code: 
 1) Download the twitteR CRAN package. 
